@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Cooper-robb/ActiveDirectoryLab)
+- [Ticketing System Simulation]
 
 <h2>📄 Certifications </h2>
 
